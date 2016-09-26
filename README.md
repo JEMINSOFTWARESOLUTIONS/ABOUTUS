@@ -1,7 +1,7 @@
 # ABOUTUS
 ===========
 
-JeminSoftwareSolutions  is about  JITTutorial , Software Development, webapplication development ,cloud computing,Testing  software quality,etc.
+JeminSoftwareSolutions  is about  JITTutorial , Software Development, webapplication development ,cloud computing,Testing  software quality,etc;  for  All  WRIT  technologies  like Dotnet, C/C++, CDollar,Jdollar,CWEB,JSTAR,JAS,JAVA/j2ee, PHP, PHYTHON, and  Android ,etc.
 
 
 
