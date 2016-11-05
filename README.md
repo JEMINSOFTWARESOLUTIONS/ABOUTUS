@@ -16,7 +16,7 @@ Quick delivery of products according to market standards.
 
 EMPCODE: JSS0007
 
-Designation : Project Manager  for  Software  Development ,Quality  Testing,webapplication development ,cloud computing
+Designation : Project Manager  for  Software  Development ,Quality  Testing,webapplication development ,Mobile APPS
 
 and  webdesign.
 
